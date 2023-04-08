@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bad38190-3341-44e4-97c1-1820e9d3107d"
+      }
+    },
+    "owner": "affaankidwai"
   }
 }
